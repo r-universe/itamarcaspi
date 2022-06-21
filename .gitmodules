@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "psymonitor"]
+	path = psymonitor
+	url = https://github.com/itamarcaspi/psymonitor
+	shallow = true
+	registered = true
